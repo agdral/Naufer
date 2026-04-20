@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <div className="">
+    <section className="min-h-screen grid bg-blue-500 ">
         hola
-    </div>
+    </section>
   );
 }

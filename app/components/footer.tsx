@@ -1,7 +1,13 @@
 export default function footer() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-        hola
-    </div>
+    <section className="flex flex-row justify-around bg-red-500">
+      <div>
+        seccion 1
+      </div>
+
+      <div>
+        seccion 2
+      </div>
+    </section>
   );
 }
