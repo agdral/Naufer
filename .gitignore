@@ -43,5 +43,3 @@ next-env.d.ts
 # flake files
 .direnv/
 
-# obsidian settings
-docs/
